@@ -1,0 +1,14 @@
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/bin/Debug/net8.0/Methods
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/bin/Debug/net8.0/Methods.dll
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/Methods.dll
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/ruslannifteliyev/Desktop/C#/Methods/MethodsSln/Methods/obj/Debug/net8.0/ref/Methods.dll
